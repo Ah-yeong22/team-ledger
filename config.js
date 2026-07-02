@@ -2,4 +2,4 @@
 // service_role 키는 절대 브라우저 코드에 넣지 마세요.
 window.APP_CONFIG = {
   SUPABASE_URL: 'https://bfnlcbgabngbbjapdvak.supabase.co',
-  SUPABASE_PUBLISHABLE_KEY: 'sb_publishable_EUgMQrmqnGBV5oYgG00yTg_LNC1I4SH'};
+  SUPABASE_ANON_KEY: 'sb_publishable_EUgMQrmqnGBV5oYgG00yTg_LNC1I4SH'};
